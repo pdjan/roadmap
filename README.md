@@ -1,6 +1,6 @@
 # roadmap
 
-Tehnologije na kojima trenutno radim 
+Tehnologije na kojima trenutno radim / materjali
 
 
 ### 0. General
@@ -28,3 +28,7 @@ Tehnologije na kojima trenutno radim
   _ Requests Essentials book by Rakesh Vidya Chandra
   
   _ Modern Tkinter for Busy Python Developers book by Mark Roseman
+  
+  _ Introduction to Interactive Programming in Python, Coursera
+  
+  _ Learn to Program : The Fundamentals, Coursera
