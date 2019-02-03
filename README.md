@@ -3,23 +3,23 @@
 Tehnologije na kojima trenutno radim 
 
 
-###0. General
+### 0. General
 
   _ [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
   
   _ Intro to Git book by Bell, Beer
   
-###1. HTML
+### 1. HTML
 
-###2. CSS
+### 2. CSS
 
   _ FreeCodeCamp Responsive Web Design kurs
   
-###3. JavaScript
+### 3. JavaScript
 
   _ [Jump Start JavaScript book](https://github.com/spbooks/JSJAVASCRIPT1) 
   
-###4. Python
+### 4. Python
 
   _ Exploring Python book by Timothy Budd
   
