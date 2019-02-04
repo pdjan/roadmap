@@ -11,6 +11,8 @@ Tehnologije na kojima trenutno radim / materjali
   
 ### 1. HTML
 
+  _ W3schools HTML5 kurs
+
 ### 2. CSS
 
   _ FreeCodeCamp Responsive Web Design kurs
