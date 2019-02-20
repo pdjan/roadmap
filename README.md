@@ -23,6 +23,8 @@ Tehnologije na kojima trenutno radim / materjali
 
   _ [Jump Start JavaScript book](https://github.com/spbooks/JSJAVASCRIPT1) 
   
+  _ FreeCodeCamp JavaScript kurs
+  
 ### 4. Python
 
   _ Exploring Python book by Timothy Budd
