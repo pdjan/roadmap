@@ -23,7 +23,7 @@ Tehnologije na kojima trenutno radim / materjali
 
   _ [Jump Start JavaScript book](https://github.com/spbooks/JSJAVASCRIPT1) 
   
-  _ FreeCodeCamp JavaScript kurs
+  _ FreeCodeCamp JavaScript course
   
 ### 4. Python
 
@@ -38,3 +38,8 @@ Tehnologije na kojima trenutno radim / materjali
   _ Introduction to Interactive Programming in Python, Coursera
   
   _ Learn to Program : The Fundamentals, Coursera
+  
+### 5. Bootstrap
+
+  _ FreeCodeCamp Bootstrap Front-End Libraries
+  
