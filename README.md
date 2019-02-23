@@ -17,7 +17,7 @@ Tehnologije na kojima trenutno radim / materjali
 
   _ W3schools CSS kurs
 
-  _ FreeCodeCamp Responsive Web Design kurs
+  _ FreeCodeCamp Responsive Web Design course
   
 ### 3. JavaScript
 
@@ -43,3 +43,4 @@ Tehnologije na kojima trenutno radim / materjali
 
   _ FreeCodeCamp Bootstrap Front-End Libraries
   
+  _ W3schools Bootstrap 4 course
