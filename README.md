@@ -44,3 +44,13 @@ Tehnologije na kojima trenutno radim / materijali
   _ FreeCodeCamp Bootstrap Front-End Libraries
   
   _ W3schools Bootstrap 4 course
+  
+### 6. jQuery
+
+  _ FreeCodeCamp jQuery challenges
+  
+### 7. Scss
+
+  _ FreeCodeCamp scss challenges
+  
+  
