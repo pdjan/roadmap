@@ -1,6 +1,6 @@
 # roadmap
 
-Tehnologije na kojima trenutno radim / materjali
+Tehnologije na kojima trenutno radim / materijali
 
 
 ### 0. General
