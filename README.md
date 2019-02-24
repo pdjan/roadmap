@@ -53,4 +53,7 @@ Tehnologije na kojima trenutno radim / materijali
 
   _ FreeCodeCamp scss challenges
   
+### 8. React
+
+  _ FreeCodeCamp React challenges
   
