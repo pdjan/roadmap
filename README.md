@@ -45,6 +45,8 @@ Tehnologije na kojima trenutno radim / materijali
   
   _ W3schools Bootstrap 4 course
   
+  _ Complete Bootstrap 4 course (Udemy)
+  
 ### 6. jQuery
 
   _ FreeCodeCamp jQuery challenges
