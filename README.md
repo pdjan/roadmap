@@ -59,3 +59,7 @@ Tehnologije na kojima trenutno radim / materijali
 
   _ FreeCodeCamp React challenges
   
+### 9. Redux
+
+  _ FreeCodeCamp Redux challenges
+  
