@@ -39,7 +39,13 @@ Tehnologije na kojima trenutno radim / materijali
   
   _ Learn to Program : The Fundamentals, Coursera
   
-### 5. Bootstrap
+### 5. Data Science
+
+  _ The Data Scientist's Toolbox Coursera kurs
+  
+  _ R Programming Coursera kurs
+  
+### 6. Bootstrap
 
   _ FreeCodeCamp Bootstrap Front-End Libraries
   
@@ -47,19 +53,19 @@ Tehnologije na kojima trenutno radim / materijali
   
   _ Complete Bootstrap 4 course (Udemy)
   
-### 6. jQuery
+### 7. jQuery
 
   _ FreeCodeCamp jQuery challenges
   
-### 7. Sass
+### 8. Sass
 
   _ FreeCodeCamp sass challenges
   
-### 8. React
+### 9. React
 
   _ FreeCodeCamp React challenges
   
-### 9. Redux
+### 10. Redux
 
   _ FreeCodeCamp Redux challenges
   
