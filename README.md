@@ -69,3 +69,5 @@ Tehnologije na kojima trenutno radim / materijali
 
   _ FreeCodeCamp Redux challenges
   
+### 11. Vue
+
