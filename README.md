@@ -71,3 +71,4 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 11. Vue
 
+  _ [The Majesty of Vue](https://github.com/hootlex/the-majesty-of-vuejs) book
