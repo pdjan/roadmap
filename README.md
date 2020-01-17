@@ -77,3 +77,4 @@ Tehnologije na kojima trenutno radim / materijali
 
   _ Selenium Webdriver Java - Learn from scratch : R.K.Singh Udemy kurs 
   
+  _ [Selenium Full Course](https://www.youtube.com/watch?v=Jdkrj2lDAEY) by Simplilearn
