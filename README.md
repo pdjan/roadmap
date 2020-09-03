@@ -41,6 +41,8 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 5. Data Science
 
+  _ SQL Primer book by Rahul Batra
+
   _ The Data Scientist's Toolbox Coursera kurs
   
   _ R Programming Coursera kurs
