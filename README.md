@@ -27,7 +27,7 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 4. Python
 
-  + Scientific Computing with Python - FreeCodeCamp course
+  _ Scientific Computing with Python - FreeCodeCamp course
 
   _ Exploring Python book by Timothy Budd
   
