@@ -1,3 +1,11 @@
+Day 7 - Aug 25
+  Read more advanced sqlite stuff like pragma command, indexes and delicious triggers (yum, yum) very interesting!
+  Didn't know but SQLite is not lite at all ;)
+
+Day 6 - Aug 24
+  Learning some advanced SQLite from Tutorialspoint. 
+  Learning to create and edit databases in different ways: using sql file, using #python and with sqlite studio.
+
 Day 5 - Aug 23
   Finished SQL Database part on w3schools site.
   Quiz done with 100% for 6 and a half minutes :)
