@@ -1,3 +1,38 @@
+Day 15 - Oct 30
+  Data Analysis with Python on freeCodeCamp 
+  Finished Reading Data with pandas videos.
+  Learned basics on how to read (and write) csv files, excel, html, databases. There is numpy part next and than projects. 
+  Jupiter notebook exercises are very detailed.
+  Made this tiny 'Guess the person' quiz with python and tkinter, ported from already made earlier kivy version. It could be some android app? 
+  Anyway PIL ImageFilter Blur rescued me a lot! Gotta learn more image manipulation :)
+  (Notice 2 months pause and switch from SQL to Python - it's Covid year, anything can go)
+
+Day 14 - Sep 3
+  I've done some more SQL Cookbook reading.
+  Also made this tiny db for bookstagram creators, python gui needed with hashtags generator and few more features. 
+
+Day 13 - Aug 31
+  Done 6 chapters from SQL Cookbook.
+  For writing query practice I find simple DB browser for SQLite to be perfect.
+
+Day 12 - Aug 30
+  Today I learned to model databases using DB Designer 4. It is outdated tool, but I needed something simple to visually create db schema and export it to sql file. 
+  Also tried DBeaver. 
+
+Day 11 - Aug 29
+  Finished SQL Primer book by Rahul Batra.
+  There is appendix further reading in it and most interesting to me is SQL Cookbook by Anthony Molinaro. 
+  I need practice writing real world queries.
+
+Day 9..10 - Aug 28
+  Almost finished SQL Primer book. 
+  Found Database Designer app for Android with sql export very useful but I don't know for similar desktop version.
+
+Day 8 - Aug 26
+  Reading SQL Primer book by Rahul Batra.
+  Implemented simple SQLite Library Database schema for practice purposes
+  Read some python sqlite articles
+
 Day 7 - Aug 25
   Read more advanced sqlite stuff like pragma command, indexes and delicious triggers (yum, yum) very interesting!
   Didn't know but SQLite is not lite at all ;)
