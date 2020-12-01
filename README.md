@@ -28,6 +28,8 @@ Tehnologije na kojima trenutno radim / materijali
 ### 4. Python
 
   + Data Analysis with Python - FreeCodeCamp course
+  
+  _ Complete Python 3 Bootcamp - Udemy course by Pierian Data
 
   _ Scientific Computing with Python - FreeCodeCamp course
 
