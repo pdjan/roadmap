@@ -26,6 +26,8 @@ Tehnologije na kojima trenutno radim / materijali
   _ FreeCodeCamp JavaScript course
   
 ### 4. Python
+
+  _ Python Flask for Beginners Udemy course by pybites
   
   _ Complete Python 3 Bootcamp - Udemy course by Pierian Data
 
