@@ -27,6 +27,8 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 4. Python
 
+  _ Flask mini course (2 hours video tutorials) by TechWithTim
+
   _ Python Flask for Beginners Udemy course by pybites
   
   _ Complete Python 3 Bootcamp - Udemy course by Pierian Data
