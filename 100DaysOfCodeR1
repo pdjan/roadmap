@@ -1,3 +1,14 @@
+Day 41 - Nov 25
+  For my Influencer Finder app v0.8.7 added function which calculates engagement rate. 
+  It looks for posts in last X days (user input) and looks at likes, comments, followers and number of posts.
+
+Day 39..40 - Nov 24
+  Working on Instagram Influencer Finder v0.8.6 
+  I have managed to replace requests with Instaloader and final code is now less than 200 lines. Awesome.
+
+Day 37..38 - Nov 22
+  Advanced modules Collections, Datetime, Debugger, StringIO 
+
 Day 36 - Nov 20
   More chapters from Python 3 Bootcamp >> Built-in functions, decorators and generators. 
 
