@@ -1,3 +1,51 @@
+Day 53 - Feb 24
+  Done Chapter 4 of Flask Mega Tutorial Databases 
+  Done Chapter 5 User Logins
+  Done few python lessons on SoloLearn 
+  Everyone has its own development path. That's amazing and scary at the same time.
+
+Day 52 - Feb 23
+  Learning about asyncio and concurrency via Real Python https://realpython.com/async-io-python/ https://realpython.com/python-concurrency/ 
+  Also browsing https://riptutorial.com/ebook/python 
+
+Day 51 - Feb 22 2021.
+  I'm back after 2 shitty months :) 
+  Today did practice lessons for Python Core certification even though finished it 3 years ago. 
+  Where have you been?
+
+Day 50 - Dec 8
+  Done first 3 chapters of Flask Mega Tutorial by @miguelgrinberg learned more about Templates and WebForms.
+
+Day 49 - Dec 6
+  Finished Flask mini course by Techwithtim:
+    - Static Files (Custom CSS, Images & Javascript)
+    - Blueprints & Using Multiple Python Files
+    - How to Deploy a Flask App to a Linux Server
+  Simple app now ready to be extended.
+
+Day 48 - Dec 5
+  Continued with Flask YT Tutorials: using sqlalchemy, adding, deleting and updating users with sqlalchemy. Superfun.
+
+Day 47 - Dec 4
+  Watched Flask YT crash course by @TechWithTimm videos 1-5. This kid is great, I will watch him later also for django and kivy tutorials for sure. 
+
+Day 46 - Dec 3
+  Finished Python Flask for Beginners udemy course (free) by pybites 2 hours duration, not bad at all, learned a a lot. Also read about http://purecss.io 
+
+Day 45 - Dec 2
+  After some thinking and reading I decided to switch my learning path from Data Science to webdev I think, in the long run, I'll get more out of it. 
+  So next for me are Flask, Django, Pyramid, jinja, mako, chameleon... what else?
+
+Day 44 - Dec 1
+  Finished Python 3 Bootcamp course on Udemy by PierianData. Good one. Learned a lots of new stuff. 
+  Even some jupyter widgets, totally unexpected. How much are they used? Not sure.
+
+Day 43 - Nov 30
+  More python bootcamp, video lessons on advanced numbers, strings and sets. 
+
+Day 42 - Nov 29
+  After 3 days off (sick leave) back to python bootcamp with some advanced modules re and timeit exercises. 
+
 Day 41 - Nov 25
   For my Influencer Finder app v0.8.7 added function which calculates engagement rate. 
   It looks for posts in last X days (user input) and looks at likes, comments, followers and number of posts.
