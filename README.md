@@ -27,6 +27,10 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 4. Python
 
+  _ Intermediate Python course on SoloLearn
+
+  _ Python Core course on SoloLearn
+
   _ Flask mini course (2 hours video tutorials) by TechWithTim
 
   _ Python Flask for Beginners Udemy course by pybites
