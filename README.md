@@ -27,6 +27,8 @@ Tehnologije na kojima trenutno radim / materijali
   
 ### 4. Python
 
+  _ Python Data Structures course on SoloLearn
+
   _ Intermediate Python course on SoloLearn
 
   _ Python Core course on SoloLearn
