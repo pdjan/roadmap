@@ -53,6 +53,8 @@ Tehnologije na kojima trenutno radim / materijali
   
   _ Learn to Program : The Fundamentals, Coursera
   
+  _ Django Web Framework course, Coursera by Meta
+  
 ### 5. Data Science
 
   _ SQL Primer book by Rahul Batra
